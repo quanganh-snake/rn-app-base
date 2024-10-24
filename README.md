@@ -1,3 +1,24 @@
+# Technology
+
+## 1. UI Library
+
+- [**GlueStack-UI**](https://gluestack.io/ui/docs/home/overview/introduction): UI Components...
+
+- [**NativeWinds**](https://www.nativewind.dev/getting-started/react-native): Styles
+
+## 2. Management Storage & State
+
+- [**MMKV**](https://github.com/mrousavy/react-native-mmkv): Fast, high-performance, Save Data LocalStorage, used for data that needs to persist across application starts.
+
+- [**Zustand**](https://github.com/pmndrs/zustand): In-app state management, suitable for sharing state between React components.
+
+## 3. Rest Library API
+
+- [**Axios**](https://axios-http.com/docs/intro)
+
+- [**ReactQuery**](https://tanstack.com/query/latest/docs/framework/react/overview): Fetching, Caching, Synchronizing and Updating server state
+
+
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
