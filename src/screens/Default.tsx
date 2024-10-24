@@ -1,12 +1,8 @@
-import React from 'react';
-import {View} from "react-native";
+import React from 'react'
+import {View} from 'react-native'
 
 const Default = () => {
-	return (
-		<View>
+	return <View></View>
+}
 
-		</View>
-	);
-};
-
-export default Default;
+export default Default
